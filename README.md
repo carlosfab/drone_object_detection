@@ -19,4 +19,4 @@
 
 Devido à restrição de tamanhos de arquivos no Github, não foi possível disponibilizar o modelo YOLO treinado no dataset COCO.
 
-Para esse script funcionar, (https://www.dropbox.com/s/ghe0ksnom26skah/yolo-coco.zip?dl=0)(baixe este arquivo zip aqui), e coloque todo o conteúdo extraído (3 arquivos no total) dentro do diretório `coco-yolo`.
+Para esse script funcionar, [baixe este arquivo zip aqui](https://www.dropbox.com/s/ghe0ksnom26skah/yolo-coco.zip?dl=0) e coloque todo o conteúdo extraído (3 arquivos no total) dentro do diretório `coco-yolo`.
